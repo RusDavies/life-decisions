@@ -19,11 +19,11 @@ Let's roll a dice!
 | ------------------- | -------------------------------------------- |
 | CI                  | n/a                                          |
 | Data Classification | Public                                       |
-| IT Owner            | Russell Davies (russell_davies@manulife.ca)  |
-| Segment             | GWAM                                         |
-| BU                  | Canadian Retirements                         |
-| BU Owner            | Russell Davies (russell_davies@manulife.ca)  |
-| Support Owner       | Russell Davies (russell_davies@manulife.ca)  |
+| IT Owner            | Russell Davies (russell@blakemere.ca)  |
+| Segment             | n/a                                         |
+| BU                  | n/a
+| BU Owner            | Russell Davies (russell@blakemere.ca)  |
+| Support Owner       | Russell Davies (russell@blakemere.ca)  |
  
 
      
