@@ -1,4 +1,4 @@
-# <!-- omit in toc --> manulife-gwam/crt-life-decisions
+# <!-- omit in toc --> life-decisions
 A George Cockcroft (Diceman) approach to the auld adage of, "Every three years, change either your car, job, house, or spouse. "
 
 Let's roll a dice! 
@@ -42,7 +42,7 @@ None
 
 ## Get the Code
  ```bash
-$ git clone git@github.com:manulife-gwam/crt-life-decisions.git
+$ git clone git@github.com:RusDavies/life-decisions.git
 ```
  
 ## Configuration
